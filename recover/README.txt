@@ -5,4 +5,5 @@
 
 Usage:
 cd recover
-recover/  $ ./recover card.raw
+recover/ $ make recover
+recover/ $ ./recover card.raw
